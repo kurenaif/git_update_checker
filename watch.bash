@@ -13,7 +13,7 @@ do
 	pwd
 	date +"%T"
 	git diff master origin/master --name-status
-	sleep 10
+	sleep 6000
 done
 cd -
 
